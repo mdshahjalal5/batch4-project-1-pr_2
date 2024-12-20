@@ -4,5 +4,6 @@
 
 ## 2-mi-7-mo-Mastering The Foundation Of Express
 
-### github repo: https://github.com/Apollo-Level2-Web-Dev/batch4-project-1
-# chk
+### mentor github repo: https://github.com/Apollo-Level2-Web-Dev/batch4-project-1
+
+### own github repo: https://github.com/mdshahjalal5/batch4-project-1-pr_2
