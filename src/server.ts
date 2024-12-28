@@ -1,6 +1,13 @@
+import { Server } from "http";
 import app from "./app";
 
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
-});
-// 12:40 7-6
+const PORT = 5000;
+let server: Server;
+
+async function bootstrap() {
+  server = app.listen(PORT, () => {
+    console.log(`Example app listening on port ${PORT}`);
+  });
+}
+
+bootstrap();
